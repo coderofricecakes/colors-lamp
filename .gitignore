@@ -1,0 +1,8 @@
+# Real credentials — never commit
+LAMPAPI/db_config.php
+
+# OS junk
+.DS_Store
+
+# Assignment source material, not app code
+Getting Started with LAMP.docx
