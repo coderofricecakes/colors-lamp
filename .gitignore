@@ -6,3 +6,6 @@ LAMPAPI/db_config.php
 
 # Assignment source material, not app code
 Getting Started with LAMP.docx
+
+# Node tooling (linting only)
+node_modules/
